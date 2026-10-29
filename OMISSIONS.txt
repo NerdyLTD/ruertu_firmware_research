@@ -1,0 +1,2 @@
+No source documents, conversation, serials, source scripts, keys, APKs, logs, firmware binaries or PDFs were copied into PUBLIC.
+All 15 expected image files were present for fresh hashing.
