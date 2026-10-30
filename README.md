@@ -1,6 +1,14 @@
 # Ruertu RTEB103C - public stock firmware research
 Prepared from observations recorded 29 October 2026. This is research reference
-material, NOT a flashable recovery kit, unlock guide, or working custom ROM.
+material, NOT a flashable recovery kit, unlock guide, or working custom ROM. However,
+within the files in this repo, you'll find "Ruertu_Stock_Firmware_Download_Helper.7z,"
+which contains instructions in Markdown format, along with a PowerShell helper script
+that will assist you in downloading and extracting the official firmware directly from
+Ruertu's servers (which for some reason are not at ruertu.com, but I have no idea why.)
+
+*************************************************************************************
+ALWAYS VERIFY THE SAFETY OF A SCRIPT BEFORE YOU RUN IT! ASSUME NOTHING IS SAFE!
+*************************************************************************************
 
 ## Scope and provenance
 One Ruertu RTEB103C running Android 11 was inspected. Vendor properties:
