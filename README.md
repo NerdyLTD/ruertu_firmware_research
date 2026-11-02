@@ -79,7 +79,10 @@ Review the folder before uploading. No license is asserted for upstream firmware
 or tools. Do not publish a sibling PRIVATE archive. Git history can preserve
 accidentally committed files even after deletion; prevention matters.
 
-References:
+## References:
+
 https://android.googlesource.com/platform/system/update_engine/+/HEAD/update_metadata.proto
+
 https://source.android.com/docs/core/architecture/bootloader/boot-image-header
+
 https://android.googlesource.com/platform/external/avb/+/master/libavb/avb_vbmeta_image.h
